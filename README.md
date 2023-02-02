@@ -52,7 +52,7 @@ After you're finished please remove all the comments and instructions!
 
 
 
-# [Rails Frontend Application](/)
+# [Rails Frontend Application](https://github.com/iambenkis/Hello-world-frontend)
 
 
 
